@@ -1,4 +1,0 @@
-Algoritmo TPfinal
-	in
-	
-FinAlgoritmo
